@@ -45,10 +45,10 @@ public class Swagger2Config
         return new ApiInfoBuilder().title("Restaurant Example")
             .description("Restaurant Example")
             .contact(new Contact("John Mitchell",
-                "http://www.lambdaschool.com",
-                "john@lambdaschool.com"))
+                "http://www.bloomtech.com",
+                "john@bloomtech.com"))
             .license("MIT")
-            .licenseUrl("https://github.com/LambdaSchool/java-restaurant/blob/master/LICENSE")
+            .licenseUrl("https://github.com/BloomInstituteOfTechnology/java-restaurant/blob/master/LICENSE")
             .version("1.0.0")
             .build();
     }
